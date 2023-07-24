@@ -17,3 +17,4 @@ enable_testing()
 
 # Recurse into source code subdirectories.
 add_subdirectory(src)
+add_subdirectory(webrtc)
